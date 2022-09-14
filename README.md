@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Slim Khfifi</h1>
-<h3 align="center">A Mobile Developer | A Full Stack Web Developer from Tunisia</h3>
+<h3 align="center">Mobile Developer | Full Stack Web Developer from Tunisia</h3>
 
 - 🌱 I’m currently learning **IOS and Flutter**
 
