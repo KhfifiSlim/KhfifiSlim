@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Slim Khfifi</h1>
 <h3 align="center">Mobile Developer | Full Stack Web Developer from Tunisia</h3>
 
-- 🌱 I’m currently learning **IOS and Flutter**
+- 🌱 I’m currently learning **React Native and Flutter**
 
 - 💬 Ask me about **Flutter, Android ,PHP, MySQL, JavaScript, Java**
 
