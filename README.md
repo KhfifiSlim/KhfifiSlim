@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React Native and Flutter**
 
-- 💬 Ask me about **Flutter, Android ,PHP, MySQL, JavaScript, Java**
+- 💬 Ask me about **NodeJS, ReactJS ,Flutter, Android ,PHP, MySQL, JavaScript, Java**
 
 - 📫 How to reach me **khfifislim@gmail.com or slimkhfifi@outlook.com**
 
